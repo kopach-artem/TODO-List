@@ -1,7 +1,7 @@
 # TODO-List: Streamline Your Task Management
 
 ## Elevate Your Productivity
-Welcome to the TODO-List application, where efficiency meets simplicity. This Java-based application integrates the robustness of back-end logic with the finesse of the Swift framework's GUI. Tailored for those who seek structure in their daily hustle, it’s more than just a list; it's your step towards optimized task management.
+Welcome to the TODO-List application, where efficiency meets simplicity. This Java-based application integrates the robustness of back-end logic with the finesse of the Swing framework's GUI. Tailored for those who seek structure in their daily hustle, it’s more than just a list; it's your step towards optimized task management.
 
 ## Key Features
 Our application comes with an array of features designed to enhance your productivity:
